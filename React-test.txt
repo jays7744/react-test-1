@@ -1,0 +1,18 @@
+1. 1. state is updateble 
+  props is read only
+  
+   props is Stateless 
+2. There are Two type of Components in react 
+       - Fuctional component
+       - Class component 
+
+3. There are 3 stage, Mounting, Updating,Unmounting	
+
+4. it's return Array
+
+5.react context is use for directly data transfer to any child component without props,it was introduce because no need to pass data from every parent component it's make easier to pass data.
+
+6.user action - handler call - update state - UI update - 
+7.when component have single data state but we need to share with sibling,
+9. Mount-DidMount 
+8. Yes need to add : instead of = 
